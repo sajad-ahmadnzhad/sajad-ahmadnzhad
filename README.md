@@ -1,15 +1,15 @@
-# من چه کسی هستم؟👨‍💻
+# Who am I? 👨‍💻
 
 <img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
 
-<h2 align="center">سلام 🖐 من سجاد احمدنژاد هستم</h2>
+<h2 align="center">Hello, 👋 my name is Sajad ahmadnzhad</h2>
 <p align="center">
-  برنامه نویس بک اند 🖥 رشته مهندسی کامپیوتر 👨‍💻 و عاشق دنیای جاوا اسکریپت مخصوصا بک اند ❤️
+   Backend programmer🖥 Computer engineering major  👨‍💻 and love the JavaScript world, especially the backend ❤️
 </p>
 
 <br />
 
-<h2 align"right">ابزار هایی که استفاده می‌کنم ⚙️</h2>
+<h2 align"right">The tools I use⚙️</h2>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![expressJs](https://img.shields.io/badge/express-%23323330.svg?style=for-the-badge&logo=express&logoColor=%23F7DF1E) 
@@ -17,21 +17,21 @@
 
 <br />
 
-<h2 align="right">تماس با من 📞</h2>
+<h2 align="right">Contact me 📞</h2>
 <a href="https://t.me/sajad_salmankhn"><img width="50px" height="50px"  align="left" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/icons8-telegram-96.png?raw=true" alt="Telegram" /></a>
 
 <br />
 
-<h2 align="right">الان به چه کار هایی مشغول هستم 🔧</h2>
+<h2 align="right">What am I currently engaged in? 🔧</h2>
 
- <h3 align="right">🌟 یادگیری node js</h3>
- <h3 align="right">🌟 یادگیری express js</h3>
- <h3 align="right">🌟 توسعه ربات های تلگرامی</h3>
- <h3 align="right">🌟 درک عمیق سلطان javaScript</h3>
+ <h3 align="right">🌟 learning node js</h3>
+ <h3 align="right">🌟 learning express js</h3>
+ <h3 align="right">🌟 Development of Telegram bots </h3>
+ <h3 align="right">🌟 Deep understanding of JavaScript</h3>
 
 <br />
 
-<h2 align="right">در حال حاضر با این ابزار ها کار میکنم 👨‍💻</h2>
+<h2 align="right">I am currently working with these tools 👨‍💻</h2>
 
 <h3 align="left">🖥 JavaScript | 80%</h3> <img width="400px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
 
