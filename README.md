@@ -9,7 +9,7 @@
 
 <br />
 
-<h2 align"right">The tools I use⚙️</h2>
+<h2>The tools I use⚙️</h2>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![expressJs](https://img.shields.io/badge/express-%23323330.svg?style=for-the-badge&logo=express&logoColor=%23F7DF1E) 
@@ -17,24 +17,24 @@
 
 <br />
 
-<h2 align="right">Contact me 📞</h2>
-<a href="https://t.me/sajad_salmankhn"><img width="50px" height="50px"  align="left" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/icons8-telegram-96.png?raw=true" alt="Telegram" /></a>
+<h2>Contact me 📞</h2>
+<a href="https://t.me/sajad_salmankhn"><img width="50px" height="50px"  align="right" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/icons8-telegram-96.png?raw=true" alt="Telegram" /></a>
 
 <br />
 
-<h2 align="right">What am I currently engaged in? 🔧</h2>
+<h2>What am I currently engaged in? 🔧</h2>
 
- <h3 align="right">🌟 learning node js</h3>
- <h3 align="right">🌟 learning express js</h3>
- <h3 align="right">🌟 Development of Telegram bots </h3>
- <h3 align="right">🌟 Deep understanding of JavaScript</h3>
+ <h3>🌟 learning node js</h3>
+ <h3>🌟 learning express js</h3>
+ <h3>🌟 Development of Telegram bots </h3>
+ <h3>🌟 Deep understanding of JavaScript</h3>
 
 <br />
 
-<h2 align="right">I am currently working with these tools 👨‍💻</h2>
+<h2>I am currently working with these tools 👨‍💻</h2>
 
-<h3 align="left">🖥 JavaScript | 80%</h3> <img width="400px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
+<h3>🖥 JavaScript | 80%</h3> <img width="400px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
 
-<h3 align="left">🖥 node Js | 20%</h3> <img width="100px" height="10px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
+<h3>🖥 node Js | 20%</h3> <img width="100px" height="10px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
 
-<h3 align="left">🖥 express Js | 15%</h3> <img width="75px" height="10px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
+<h3>🖥 express Js | 15%</h3> <img width="75px" height="10px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
