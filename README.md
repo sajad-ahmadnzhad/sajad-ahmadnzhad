@@ -17,6 +17,10 @@
 
 <br />
 
+<h1>my activities:</h1>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajad-ahmadnzhad&langs_count=8)
+
 <h2>Contact me 📞</h2>
 <a href="https://t.me/sajad_salmankhn"><img width="50px" height="50px"  align="right" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/icons8-telegram-96.png?raw=true" alt="Telegram" /></a>
 
@@ -40,7 +44,6 @@
 <h3>🖥 express Js | 15%</h3> <img width="75px" height="10px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
 
 <hr />
-
 <h1 align="center">king 👑
 <p align="center">
 <img src="https://github.com/sajad-ahmadnzhad/sajad-ahmadnzhad/blob/main/4373213_js_logo_logos_icon.png?raw=true" />
