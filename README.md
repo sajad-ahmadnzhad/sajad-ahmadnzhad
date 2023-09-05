@@ -22,7 +22,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajad-ahmadnzhad&langs_count=8)
 
 <h2>Contact me 📞</h2>
-<a href="https://t.me/sajad_salmankhn"><img width="50px" height="50px"  align="right" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/icons8-telegram-96.png?raw=true" alt="Telegram" /></a>
+<a href="https://t.me/sajad_salmankhn"><img width="50px" height="50px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/icons8-telegram-96.png?raw=true" alt="Telegram" /></a>
 
 <br />
 
