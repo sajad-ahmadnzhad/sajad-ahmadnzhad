@@ -31,6 +31,7 @@
 
  <h3>🌟 learning node js</h3>
  <h3>🌟 learning express js</h3>
+ <h3>🌟 learning typeScript</h3>
  <h3>🌟 Development of Telegram bots </h3>
  <h3>🌟 Deep understanding of JavaScript</h3>
 
