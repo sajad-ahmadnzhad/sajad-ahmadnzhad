@@ -40,6 +40,7 @@
 <h2>I am currently working with these tools 👨‍💻</h2>
 
 <h3>🖥 JavaScript | 80%</h3> <img width="400px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
+<h3>🖥 TypeScript | 60%</h3> <img width="240px" height="10px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
 
 <h3>🖥 node Js | 20%</h3> <img width="100px" height="10px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
 
