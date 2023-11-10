@@ -30,6 +30,7 @@
 <h2>What am I currently engaged in? 🔧</h2>
 
  <h3>🌟 learning node js</h3>
+ <h3>🌟 learning restful api</h3>
  <h3>🌟 learning express js</h3>
  <h3>🌟 learning typeScript</h3>
  <h3>🌟 Development of Telegram bots </h3>
@@ -40,11 +41,10 @@
 <h2>I am currently working with these tools 👨‍💻</h2>
 
 <h3>🖥 JavaScript | 80%</h3> <img width="400px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
-<h3>🖥 TypeScript | 60%</h3> <img width="240px" height="10px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
+<h3>🖥 express Js | 70%</h3> <img width="350px" height="10px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
+<h3>🖥 TypeScript | 60%</h3> <img width="300px" height="10px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
+<h3>🖥 node Js | 50%</h3> <img width="250px" height="10px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
 
-<h3>🖥 node Js | 20%</h3> <img width="100px" height="10px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
-
-<h3>🖥 express Js | 15%</h3> <img width="75px" height="10px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
 
 <hr />
 <h1 align="center">king 👑
