@@ -17,6 +17,8 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![NestJs](https://img.shields.io/badge/nest.js-red?style=for-the-badge&logo=nestjs&logoColor=white)
+![Graphql](https://img.shields.io/badge/graphql-blue?style=for-the-badge&logo=graphql&logoColor=white)
 <br />
 
 <h1>my activities:</h1>
@@ -30,10 +32,14 @@
 
 <h2>What am I currently engaged in? 🔧</h2>
 
- <h3>🌟 learning node js</h3>
- <h3>🌟 learning restful api</h3>
- <h3>🌟 learning express js</h3>
- <h3>🌟 learning typeScript</h3>
+ <h3>🌟 learning Node js</h3>
+ <h3>🌟 learning Restful api</h3>
+ <h3>🌟 learning Express js</h3>
+ <h3>🌟 learning TypeScript</h3>
+ <h3>🌟 learning Nestjs</h3>
+ <h3>🌟 learning Graphql</h3>
+ <h3>🌟 learning Fastify</h3>
+ <h3>🌟 learning Redis</h3>
  <h3>🌟 Development of Telegram bots </h3>
  <h3>🌟 Deep understanding of JavaScript</h3>
 
@@ -41,11 +47,13 @@
 
 <h2>I am currently working with these tools 👨‍💻</h2>
 
-<h3>🖥 JavaScript | 80%</h3> <img width="400px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
-<h3>🖥 Express Js | 70%</h3> <img width="350px" height="10px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
-<h3>🖥 Fastify | 60%</h3> <img width="300px" height="10px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
-<h3>🖥 TypeScript | 60%</h3> <img width="300px" height="10px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
-<h3>🖥 Node | 50%</h3> <img width="250px" height="10px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
+<h3>🖥 JavaScript | 90%</h3> <img width="450px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
+<h3>🖥 TypeScript | 80%</h3> <img width="400px" height="10px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
+<h3>🖥 NodeJs | 80%</h3> <img width="400px" height="10px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
+<h3>🖥 Express Js | 80%</h3> <img width="400px" height="10px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
+<h3>🖥 Fastify | 60%</h3> <img width="360px" height="10px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
+<h3>🖥 Graphql | 60%</h3> <img width="360px" height="10px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
+<h3>🖥 Nestjs | 50%</h3> <img width="250px" height="10px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
 
 
 <hr />
