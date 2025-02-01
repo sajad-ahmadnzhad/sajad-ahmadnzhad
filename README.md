@@ -56,7 +56,7 @@
 <h2 align="center">📫 Connect with Me</h2>
 
 <p align="center">
-   <a href="https://t.me/sajad_salmankhn"><img src="https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+   <a href="https://t.me/ahmadnzhad22"><img src="https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
 ---
