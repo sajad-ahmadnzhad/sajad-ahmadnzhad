@@ -1,67 +1,79 @@
-# Who am I? 👨‍💻
+<h1 align="center">Hey there, I'm Sajad Ahmadnzhad! 👋</h1>
 
-<img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
-
-<h2 align="center">Hello, 👋 my name is Sajad ahmadnzhad</h2>
 <p align="center">
-   Backend programmer🖥 Computer engineering major  👨‍💻 and love the JavaScript world, especially the backend ❤️
+   <strong>Backend Developer | JavaScript Enthusiast 🚀</strong>
 </p>
 
-<br />
+---
 
-<h2>The tools I use⚙️</h2>
+<h2 align="center">💻 About Me</h2>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![expressJs](https://img.shields.io/badge/express-%23323330.svg?style=for-the-badge&logo=express&logoColor=%23F7DF1E)  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![NestJs](https://img.shields.io/badge/nest.js-red?style=for-the-badge&logo=nestjs&logoColor=white)
-![Graphql](https://img.shields.io/badge/graphql-blue?style=for-the-badge&logo=graphql&logoColor=white)
-<br />
-
-<h1>my activities:</h1>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajad-ahmadnzhad&langs_count=8)
-
-<h2>Contact me 📞</h2>
-<a href="https://t.me/sajad_salmankhn"><img width="50px" height="50px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/icons8-telegram-96.png?raw=true" alt="Telegram" /></a>
-
-<br />
-
-<h2>What am I currently engaged in? 🔧</h2>
-
- <h3>🌟 learning Node js</h3>
- <h3>🌟 learning Restful api</h3>
- <h3>🌟 learning Express js</h3>
- <h3>🌟 learning TypeScript</h3>
- <h3>🌟 learning Nestjs</h3>
- <h3>🌟 learning Graphql</h3>
- <h3>🌟 learning Fastify</h3>
- <h3>🌟 learning Redis</h3>
- <h3>🌟 Development of Telegram bots </h3>
- <h3>🌟 Deep understanding of JavaScript</h3>
-
-<br />
-
-<h2>I am currently working with these tools 👨‍💻</h2>
-
-<h3>🖥 JavaScript | 90%</h3> <img width="450px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
-<h3>🖥 TypeScript | 80%</h3> <img width="400px" height="10px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
-<h3>🖥 NodeJs | 80%</h3> <img width="400px" height="10px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
-<h3>🖥 Express Js | 80%</h3> <img width="400px" height="10px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
-<h3>🖥 Fastify | 60%</h3> <img width="360px" height="10px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
-<h3>🖥 Graphql | 60%</h3> <img width="360px" height="10px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
-<h3>🖥 Nestjs | 50%</h3> <img width="250px" height="10px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
-
-
-<hr />
-<h1 align="center">king 👑
 <p align="center">
-<img src="https://github.com/sajad-ahmadnzhad/sajad-ahmadnzhad/blob/main/4373213_js_logo_logos_icon.png?raw=true" />
+   I'm a passionate backend developer with a deep love for JavaScript and its ecosystem. I enjoy building high-performance applications and exploring new technologies to enhance backend architectures.
 </p>
-   
-</h1>
 
+<p align="center">
+   <img src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
+</p>
 
+---
+
+<h2 align="center">⚙️ Technologies & Tools</h2>
+
+<p align="center">
+   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" />
+   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
+   <img src="https://img.shields.io/badge/microservices-%23blue.svg?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+   <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
+   <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+   <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+   <img src="https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+   <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+   <img src="https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" />
+   <img src="https://img.shields.io/badge/socket.io-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white" />
+   <img src="https://img.shields.io/badge/graphql-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" />
+   <img src="https://img.shields.io/badge/shell%20scripting-%23FFD500.svg?style=for-the-badge&logo=gnu-bash&logoColor=black" />
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=sajad-ahmadnzhad&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajad-ahmadnzhad&theme=radical" />
+</p>
+
+---
+
+<h2 align="center">📫 Connect with Me</h2>
+
+<p align="center">
+   <a href="https://t.me/sajad_salmankhn"><img src="https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</p>
+
+---
+
+<h2 align="center">🔥 My Current Focus</h2>
+
+<ul>
+   <li>Deepening my knowledge of microservices architecture.</li>
+   <li>Mastering advanced NestJS and TypeScript patterns.</li>
+   <li>Building scalable and optimized backend systems.</li>
+   <li>Enhancing my expertise in Redis, RabbitMQ, and Docker.</li>
+</ul>
+
+---
+
+<h1 align="center">👑 Code like a King!</h1>
+
+<p align="center">
+   <img src="https://github.com/sajad-ahmadnzhad/sajad-ahmadnzhad/blob/main/4373213_js_logo_logos_icon.png?raw=true" width="150px" />
+</p>
